@@ -7,7 +7,7 @@ cmd/build/build
 # Generated files
 src/js/thirdpartyservices.js
 public/tmp/
-public/profile_pictures/
+public/profile/
 
 # Environment
 .env
